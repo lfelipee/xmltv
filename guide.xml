@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="The History Channel HD">
+    <display-name lang="pt">The History Channel HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Premium HD">
+    <display-name lang="pt">Telecine Premium HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Action HD">
+    <display-name lang="pt">Telecine Action HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20191202004500 -0300" stop="20191202011000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202011000 -0300" stop="20191202013500 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202013500 -0300" stop="20191202020000 -0300" channel="The History Channel HD">
+    <title lang="pt">Destravado: Histórias dos Videogames No Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202020000 -0300" stop="20191202022500 -0300" channel="The History Channel HD">
+    <title lang="pt">Engrenagem dos Games</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202022500 -0300" stop="20191202025000 -0300" channel="The History Channel HD">
+    <title lang="pt">Brasil de Imigrantes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202025000 -0300" stop="20191202031500 -0300" channel="The History Channel HD">
+    <title lang="pt">Brasil de Imigrantes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202031500 -0300" stop="20191202034000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202034000 -0300" stop="20191202043000 -0300" channel="The History Channel HD">
+    <title lang="pt">O Melhor de Caçadores de Relíquias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202043000 -0300" stop="20191202060000 -0300" channel="The History Channel HD">
+    <title lang="pt">Gigantes dos Alimentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202060000 -0300" stop="20191202062500 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202062500 -0300" stop="20191202065000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202065000 -0300" stop="20191202074000 -0300" channel="The History Channel HD">
+    <title lang="pt">Caçadores de Relíquias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202074000 -0300" stop="20191202083000 -0300" channel="The History Channel HD">
+    <title lang="pt">Caçadores de Relíquias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202083000 -0300" stop="20191202092500 -0300" channel="The History Channel HD">
+    <title lang="pt">Alienígenas do Passado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202092500 -0300" stop="20191202102000 -0300" channel="The History Channel HD">
+    <title lang="pt">Alienígenas do Passado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202102000 -0300" stop="20191202111000 -0300" channel="The History Channel HD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202111000 -0300" stop="20191202113500 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202113500 -0300" stop="20191202120000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202120000 -0300" stop="20191202133500 -0300" channel="The History Channel HD">
+    <title lang="pt">Gigantes dos Alimentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202133500 -0300" stop="20191202140000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202140000 -0300" stop="20191202142500 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202142500 -0300" stop="20191202145500 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202145500 -0300" stop="20191202152000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202152000 -0300" stop="20191202154500 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202154500 -0300" stop="20191202161000 -0300" channel="The History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202161000 -0300" stop="20191202163500 -0300" channel="The History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202163500 -0300" stop="20191202172500 -0300" channel="The History Channel HD">
+    <title lang="pt">O Melhor de Caçadores de Relíquias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202172500 -0300" stop="20191202175000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202175000 -0300" stop="20191202181500 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202181500 -0300" stop="20191202184000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202184000 -0300" stop="20191202190500 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202190500 -0300" stop="20191202193000 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202193000 -0300" stop="20191202195500 -0300" channel="The History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202195500 -0300" stop="20191202202000 -0300" channel="The History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202202000 -0300" stop="20191202204500 -0300" channel="The History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202204500 -0300" stop="20191202222000 -0300" channel="The History Channel HD">
+    <title lang="pt">Gigantes dos Alimentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202222000 -0300" stop="20191202230100 -0300" channel="The History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202230100 -0300" stop="20191202235100 -0300" channel="The History Channel HD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202235100 -0300" stop="20191203001600 -0300" channel="The History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202001000 -0300" stop="20191202023000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Han Solo: Uma História Star Wars</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202023000 -0300" stop="20191202040000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Piercing</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202040000 -0300" stop="20191202054500 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Perdido na Fama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202054500 -0300" stop="20191202072000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Drones</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202072000 -0300" stop="20191202085500 -0300" channel="Telecine Premium HD">
+    <title lang="pt">A Garota Perfeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202085500 -0300" stop="20191202103000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Todas as Pequenas Coisas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202103000 -0300" stop="20191202122000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Poderia Me Perdoar?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202122000 -0300" stop="20191202141000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Ilha dos Cachorros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202141000 -0300" stop="20191202161500 -0300" channel="Telecine Premium HD">
+    <title lang="pt">A Música do Silêncio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202161500 -0300" stop="20191202175500 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Alguém Como Eu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202175500 -0300" stop="20191202195000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Lego Ninjago: O Filme</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202195000 -0300" stop="20191202220000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">O Menino Que Queria Ser Rei</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202220000 -0300" stop="20191203000500 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Homem-formiga e a Vespa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202014000 -0300" stop="20191202032000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Sacrifício (2016)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202032000 -0300" stop="20191202052000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Extermínio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202052000 -0300" stop="20191202071000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Inferno no Faroeste 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202071000 -0300" stop="20191202085000 -0300" channel="Telecine Action HD">
+    <title lang="pt">O Negociador (2011)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202085000 -0300" stop="20191202104000 -0300" channel="Telecine Action HD">
+    <title lang="pt">O Homem Mais Procurado Do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202104000 -0300" stop="20191202130000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Waterworld</title>
+    <sub-title lang="pt">O Segredo das Águas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202130000 -0300" stop="20191202144500 -0300" channel="Telecine Action HD">
+    <title lang="pt">S.m.a.r.t. Chase: Perseguição Explosiva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202144500 -0300" stop="20191202162500 -0300" channel="Telecine Action HD">
+    <title lang="pt">O Culto de Chucky</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202162500 -0300" stop="20191202180500 -0300" channel="Telecine Action HD">
+    <title lang="pt">O Protetor (2015)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202180500 -0300" stop="20191202195500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Legalize Já</title>
+    <sub-title lang="pt">Amizade Nunca Morre</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202195500 -0300" stop="20191202220000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Daylight</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202220000 -0300" stop="20191202235500 -0300" channel="Telecine Action HD">
+    <title lang="pt">A Múmia (2017)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191202235500 -0300" stop="20191203013500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Guerreiros Do Futuro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
